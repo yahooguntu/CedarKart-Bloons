@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty>
+  <useStyles filename="nifty-default-styles.xml" />
+  <useControls filename="nifty-default-controls.xml" />
+  
+  <!-- Start Screen -->
+  <screen id="start" controller="mygame.SimpleController">
+    <!--<layer id="background" childLayout="center">
+            <image align="center" filename="Interface/splash-1040.png"></image>
+    </layer>-->
+    <layer id="foreground" childLayout="vertical">
+      <panel id="panel_mid" height="50%" width="75%" align="center" childLayout="center">
+          <control name="label" align="center" />
+      </panel>
+      <panel id="panel_bottom" height="75%" width="40%" align="right" childLayout="horizontal">   
+          <panel width="50%" height="5%" valign="center" align="center" childLayout="center">
+                <image align="center" filename="Interface/play.png" visibleToMouse="true">
+                      <interact onClick="gotoScreen(settings)" />
+                 </image>
+          </panel>
+      </panel>
+    </layer>
+  </screen>
+  
+  
+  <screen id="settings" controller="mygame.SimpleController">
+     <layer id="background" childLayout="center">
+            <!--<image align="center" filename="Interface/splash-1040.png"></image>-->
+    </layer>
+    <layer id="foreground" childLayout="vertical">
+      <panel height="95%" width="85%" align="left" childLayout="center">
+        <panel style="nifty-panel-bright" valign="bottom" childLayout="center" width="40%" height="22%" align="right">
+            <panel childLayout="horizontal" valign="top" paddingTop="30px">
+                  <control name="label" color="#000000" text="Username:" width="80px" />   
+                  <control name="textfield" color="#000000" id="username" maxLength="20" width="150px" />
+            </panel> 
+             <panel childLayout="horizontal" paddingTop="30px">
+                  <control name="label" color="#000000" text="Server IP:" width="80px" />   
+                  <control name="textfield" color="#000000" id="ip" maxLength="20" width="150px" text="163.11.174.85" />
+            </panel> 
+            <panel width="" height="" valign="bottom" align="center" childLayout="center" background="#FFFFF">
+                  <control name="button" label="Let's Go!" id="NextButton"  align="center" valign="center" visibleToMouse="true"> 
+                      <interact onClick="gotoScreen(loading)" />
+                  </control>
+            </panel>
+        </panel>
+      </panel> 
+    </layer>
+  </screen>
+      
+  <!-- OLD Settings Screen from demo -->
+  <screen id="settingsOLD" controller="mygame.SimpleController">
+    <layer id="background" childLayout="vertical">       
+            <image align="center" filename="Interface/config.jpg"></image>
+    </layer>
+    <layer id="foreground" childLayout="vertical">    
+      <panel id="panel_top_spacer" height="20%" width="100%"></panel>
+      <panel id="panel_mid" height="55%" width="75%" align="center" childLayout="vertical">       
+          <control name="radioButtonGroup" color="#000000" id="weather" />  
+          <control name="label" align="left" color="#000000" text="Select the weather. Choose carefully as the weather is unpredictable and could change at any moment." />
+          <panel childLayout="horizontal" padding="0px" width="400px">
+            <panel childLayout="horizontal">
+              <control name="radioButton" color="#000000" id="sunny" group="weather" width="30px" />
+              <control name="label" color="#000000" text="Sunny" />        
+            </panel>
+            <panel childLayout="horizontal">
+              <control name="radioButton" color="#000000" id="cloudy" group="weather" width="30px" />  
+              <control name="label" color="#000000" text="Cloudy" />         
+            </panel>
+            <panel childLayout="horizontal">
+              <control name="radioButton" color="#000000" id="winter" group="weather" width="30px" />
+              <control name="label" color="#000000" text="Winter" />
+            </panel>
+            <panel childLayout="horizontal">
+              <control name="radioButton" color="#000000" id="night" group="weather" width="30px" />
+              <control name="label" color="#000000" text="Night"/>
+            </panel>
+          </panel> 
+          <panel childLayout="horizontal" paddingTop="30px">
+                <control name="label" color="#000000" text="Username:" width="80px" />   
+                <control name="textfield" color="#000000" id="username" maxLength="20" width="150px" />
+          </panel>    
+          <panel childLayout="horizontal" paddingTop="60px">         
+                <control name="label" color="#000000" align="left" text="Game Mode:" />   
+                <panel childLayout="horizontal">
+                    <control name="radioButtonGroup" color="#000000" id="gamemode" /> 
+                    <panel childLayout="horizontal" width="190px">
+                      <control name="radioButton" color="#000000" id="competition" group="gamemode" width="40px" />
+                      <control name="label" color="#000000" text="Competition (Lap Based)" />        
+                    </panel>
+                    <panel childLayout="horizontal" width="110px">
+                      <control name="radioButton"color="#000000" id="freeplay" group="gamemode" width="40px" />
+                      <control name="label" color="#000000" text="Free Play" />        
+                    </panel>
+                </panel>
+           </panel>
+          
+           <panel childLayout="horizontal" paddingTop="90px">
+                <control name="label" color="#000000" text="Difficulty:" width="80px" />   
+                <control id="difficulty" color="#000000" name="dropDown" width = "150px" />
+           </panel>
+          
+           <panel childLayout="horizontal" paddingTop="120px">
+                <control name="label" color="#000000" text="Quality:" width="80px" />   
+                <control id="quality" color="#000000" name="dropDown" width = "150px" />
+           </panel>
+      </panel>     
+      <panel id="panel_bottom" height="10%" width="100%" align="center" childLayout="center">   
+          <control name="button" label="Next" id="NextButton"  align="center" valign="center" visibleToMouse="true"> 
+            <interact onClick="gotoScreen(moresettings)" />
+          </control>
+      </panel>
+    </layer>
+  </screen>
+
+
+  <screen id="loading" controller="mygame.SimpleController">
+        <layer id="background" childLayout="vertical">
+          <panel width="100%" height="100%" valign="center" align="center" childLayout="center">
+                <image align="center" filename="Interface/loading.png">  </image>
+                <panel width="50%" height="30%" valign="bottom" align="center" childLayout="center">
+                    <image align="center" filename="Interface/instructions1.png">  </image>
+              </panel>
+          </panel>
+      </layer>
+  </screen>
+  <screen id="playGame" controller="mygame.SimpleController">
+      <layer id="foreground" childLayout="vertical"></layer>
+  </screen>
+  
+  <screen id="end">
+  </screen>
+</nifty>
