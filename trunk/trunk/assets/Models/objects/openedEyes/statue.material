@@ -1,0 +1,264 @@
+
+material _missing_material_ 
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            ambient 0.1 0.1 0.1 1.0
+            diffuse 0.8 0.0 0.0 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.3 0.3 0.3 1.0
+        }
+    }
+}
+
+material Material 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.859
+	{
+		pass b2ogre_1323980269.86
+		{
+			ambient 0.7889999747276306 0.6928772330284119 0.46135643124580383 1.0
+			diffuse 0.6311999891877171 0.5543017946824698 0.3690851504964403 1.0
+			specular 0.0 0.0 0.0 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Concrete 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.86
+	{
+		pass b2ogre_1323980269.86
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+			specular 0.05000000074505806 0.05000000074505806 0.05000000074505806 1.0 6.25
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323980269.86
+			{
+				texture concrete.jpg
+				tex_address_mode wrap
+				scale 0.2 0.2
+				colour_op replace
+			}
+			texture_unit b2ogre_1323980269.861
+			{
+				texture crackbump.jpg
+				tex_address_mode wrap
+				scale 1.0 1.0
+				tex_coord_set 0
+				colour_op replace
+			}
+			texture_unit b2ogre_1323980269.862
+			{
+				texture concretebump.jpg
+				tex_address_mode wrap
+				scale 0.2 0.2
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.003 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.863
+	{
+		pass b2ogre_1323980269.863
+		{
+			ambient 0.054966144263744354 0.024814536795020103 0.007605853956192732 1.0
+			diffuse 0.043972916066242984 0.019851629731828413 0.00608468325562303 1.0
+			specular 0.0 0.0 0.0 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Material.011 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.864
+	{
+		pass b2ogre_1323980269.864
+		{
+			ambient 0.06371737271547318 0.054722193628549576 0.03771975263953209 1.0
+			diffuse 0.05097389893194881 0.04377775555517904 0.030175802561280163 1.0
+			specular 0.2280000001192093 0.19913999736309052 0.15000000596046448 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323980269.864
+			{
+				texture bronze.jpg
+				tex_address_mode wrap
+				scale 0.1 0.1
+				env_map planar
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.010 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.865
+	{
+		pass b2ogre_1323980269.865
+		{
+			ambient 0.08000809699296951 0.08000809699296951 0.08000809699296951 1.0
+			diffuse 0.06400647854814645 0.06400647854814645 0.06400647854814645 1.0
+			specular 0.5 0.5 0.5 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Material.012 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.865
+	{
+		pass b2ogre_1323980269.865
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+			specular 0.5 0.5 0.5 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Material.002 
+{
+	receive_shadows on
+	technique b2ogre_1323980269.866
+	{
+		pass b2ogre_1323980269.866
+		{
+			ambient 0.800000011920929 0.14697694778442383 0.7089309096336365 1.0
+			diffuse 0.6400000190734865 0.11758155997964082 0.5671447361580242 1.0
+			specular 0.5 0.5 0.5 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323980269.866
+			{
+				texture plaque.jpg
+				tex_address_mode wrap
+				scale 1.0 1.0
+				tex_coord_set 0
+				colour_op replace
+			}
+		}
+	}
+}

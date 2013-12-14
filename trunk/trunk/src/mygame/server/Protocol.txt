@@ -1,0 +1,81 @@
+0  - UPDATE POSITION
+From client to server
+Format:  0 locX,locY,locZ,rotX,rotY,rotZ,rotW,speed
+Example: 0 1,2,3,8,7,6,5,9000
+
+0  - UPDATE POSITION
+From server to client
+Format:  0 USERNAME locX,locY,locZ,rotX,rotY,rotZ,rotW,speed
+Example: 0 joe 1,2,3,8,7,6,5,9000
+
+
+1  - LOGON 
+From client to server
+Format:  1 USERNAME
+Example: 1 mzimmerm
+
+
+2  - LOGOFF 
+From client to server
+Format:  2 USERNAME
+Example: 2 mzimmerm
+
+
+3  - OUTGOING/INCOMING MESSAGES
+From client to server and server to client
+Format:  3 RECIPIENT MESSAGE
+Example: 3 esimon This is a sample message!
+
+
+4  - USER ON NOTIFY
+From server to client
+Format:  4 USERNAME
+Example: 4 esimon
+
+
+5  - USER OFF NOTIFY
+From server to client
+Format:  5 USERNAME
+Example: 5 esimon
+
+
+6  - LOG ON SUCCESS
+From server to client
+Format:  6 USERNAME
+Example: 6 mzimmerm
+
+
+7  - LOGON FAILED (name taken)
+From server to client
+Format:  7 USERNAME
+Example: 7 mzimmerm
+
+
+8  - CUP TAKEN
+From client to server and server to client
+Format:  8 CUP#
+Example: 8 1
+
+
+9  - USER TAKEN BALLOON
+From client to server and server to client
+Format:  9 USERNAME
+Example: 9 joe
+
+
+10 - START GAME @ POSITION
+From client to server and server to client
+Format:  10 FLOAT, FLOAT, FLOAT
+Example: 10 2.2, 9.0, 4.7
+
+
+11 - SCORE UPDATE
+From client to server
+Format:  11 POINTS
+Example: 11 31
+
+
+11 - SCORE UPDATE
+From server to client
+Format:  11 USERNAME POINTS
+Example: 11 joe 31

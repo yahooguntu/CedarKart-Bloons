@@ -1,0 +1,297 @@
+# Format is:
+# name, path, locationX, locationYOffset, locationZ, scale, rotationX, rotationY, rotationZ, rotationW
+
+# Objects
+"DMC Bridge",	 "Models/objects/bridge/bridge.obj",	      44f,	   0.0f,	 71f,	 0.40f,	 0f,	 0.3775f,	 0f,	 0.9260f
+"ENS Bridge",	 "Models/objects/bridge/bridge.obj",	     -22f,	   0.0f,	 140f,	 0.40f,	 0f,	 0.5120f,	 0f,	 0.8590f
+"Finish",	 "Models/objects/finishLine/finishLine.obj",	 -28.0f,	 0.0f ,92.5f,	 1f,	0.0000f,	0.8499f,	0.0000f,	0.5270f
+"SSS Clock",	 "Models/objects/sscClock/sscClock.obj",	  -38.1f,	 0.0f,	104.1f,	0.15f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Creation 1",	 "Models/objects/creation/creation.obj",	 -32.0f,	 0.0f,	101.0f,	0.13f,	0.0000f,	-0.5378f,	0.0000f,	0.8431f
+"Creation 2",	 "Models/objects/creation/creation.obj",	 -31.5f,	 0.0f,	103.0f,	0.13f,	0.0000f,	-0.7249f,	0.0000f,	0.6888f
+"Creation 3",	 "Models/objects/creation/creation.obj",	 -32.0f,	 0.0f,	105.0f,	0.13f,	0.0000f,	-0.8188f,	0.0000f,	0.5741f
+"Creation 4",	 "Models/objects/creation/creation.obj",	 -33.0f,	 0.0f,	107.0f,	0.13f,	0.0000f,	0.8749f,	0.0000f,	-0.4843f
+"Creation 5",	 "Models/objects/creation/creation.obj",	 -34.5f,	 0.0f,	108.5f,	0.13f,	0.0000f,	0.9477f,	0.0000f,	-0.3193f
+"Creation 6",	 "Models/objects/creation/creation.obj",	 -36.5f,	 0.0f,	110.0f,	0.13f,	0.0000f,	0.9689f,	0.0000f,	-0.2475f
+"Creation 7",	 "Models/objects/creation/creation.obj",	 -38.5f,	 0.0f,	111.0f,	0.13f,	0.0000f,	0.9929f,	0.0000f,	-0.1192f
+"Rock",	 "Models/objects/rock/rock.obj",	               -22.0f,	 0.0f,	93.0f,	2.7f,	0.0000f,	0.8499f,	0.0000f,	0.5270f      
+"Lake Wall 1",	 "Models/objects/lakeWall/lakeWall.obj",	 -9.6f,	 0.0f,	92.7f,	0.53f,	0.0000f,	0.2532f,	0.0000f,	0.9674f
+"Lake Wall 2",	 "Models/objects/lakeWall/lakeWall.obj",	 -16.4f,	 0.0f,	96.6f,	0.53f,	0.0000f,	0.2532f,	0.0000f,	0.9674f
+"Lake Wall 3",	 "Models/objects/lakeWall/lakeWall.obj",	 9.7f,	 0.0f,	115.3f,	0.53f,	0.0000f,	0.5191f,	0.0000f,	0.8547f
+"BTS Statue",	 "Models/objects/btsStatue/btsStatue.obj",	 54.5f,	 0.0f,	83.1f,	0.55f,	0.0000f,	0.8663f,	0.0000f,	-0.4995f
+"Golf Cart",	 "Models/vehicles/golfCart/golfCart.obj",	 40.1f,	 0.0f,	 194.9f,	 0.1f,	 0f,	 0f,	 0f,	 0f
+"Flag Pole",	 "Models/objects/flagpole/flagpole.mesh.xml",	 13.3f,	 0.0f,	116.7f,	2f,	0f,	-0.35f,	0f,	-0.75f
+
+# Detailed Models
+"Yellow Jacket",	 "Models/people/jacket/jacket.mesh.xml",	 -30.0f,	 0.0f ,92f,	 2f,	0.0000f,	0f,	0f,	0.5270f
+"Water Tower",	 "Models/objects/tower/water_tower.mesh.xml",	 -40.5f,	 0.0f,	 -38f,	 1.5f,	0f,	 4f,	0f,	0f
+"Opened Eyes",	 "Models/objects/openedEyes/statue.mesh.xml",	 -10.8f,	 0.0f,	89.5f,	1f,	0f,	-0.1918f,	0f,	0f
+
+# Lampposts
+"Lamppost 1",	 "Models/objects/lamppost/lamppost.obj",	21.1f,	0.0f,	23.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 2",	 "Models/objects/lamppost/lamppost.obj",	9.9f,	0.0f,	18.8f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 3",	 "Models/objects/lamppost/lamppost.obj",	2.7f,	0.0f,	30.7f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 4",	 "Models/objects/lamppost/lamppost.obj",	-14.2f,	0.0f,	33.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 5",	 "Models/objects/lamppost/lamppost.obj",	32.0f,	0.0f,	20.5f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 6",	 "Models/objects/lamppost/lamppost.obj",	40.6f,	0.0f,	143.7f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 7",	 "Models/objects/lamppost/lamppost.obj",	41.2f,	0.0f,	102.8f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 8",	 "Models/objects/lamppost/lamppost.obj",	31.8f,	0.0f,	109.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 9",	 "Models/objects/lamppost/lamppost.obj",	21.3f,	0.0f,	114.7f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 10",	 "Models/objects/lamppost/lamppost.obj",	13.3f,	0.0f,	123.7f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 11",	 "Models/objects/lamppost/lamppost.obj",	9.9f,	0.0f,	134.9f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 12",	 "Models/objects/lamppost/lamppost.obj",	9.7f,	0.0f,	146.5f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 13",	 "Models/objects/lamppost/lamppost.obj",	34.7f,	0.0f,	-55.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 14",	 "Models/objects/lamppost/lamppost.obj",	36.5f,	0.0f,	-45.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 15",	 "Models/objects/lamppost/lamppost.obj",	38.9f,	0.0f,	-33.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 16",	 "Models/objects/lamppost/lamppost.obj",	40.7f,	0.0f,	-23.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 17",	 "Models/objects/lamppost/lamppost.obj",	43.1f,	0.0f,	-11.8f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 18",	 "Models/objects/lamppost/lamppost.obj",	45.7f,	0.0f,	1.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 19",	 "Models/objects/lamppost/lamppost.obj",	47.9f,	0.0f,	12.4f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 20",	 "Models/objects/lamppost/lamppost.obj",	49.7f,	0.0f,	21.8f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 21",	 "Models/objects/lamppost/lamppost.obj",	47.0f,	0.0f,	112.6f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 22",	 "Models/objects/lamppost/lamppost.obj",	50.4f,	0.0f,	128.2f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 23",	 "Models/objects/lamppost/lamppost.obj",	55.8f,	0.0f,	139.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 24",	 "Models/objects/lamppost/lamppost.obj",	57.6f,	0.0f,	148.4f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 25",	 "Models/objects/lamppost/lamppost.obj",	59.5f,	0.0f,	158.4f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 26",	 "Models/objects/lamppost/lamppost.obj",	61.5f,	0.0f,	169.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 27",	 "Models/objects/lamppost/lamppost.obj",	63.5f,	0.0f,	177.8f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 28",	 "Models/objects/lamppost/lamppost.obj",	65.5f,	0.0f,	189.0f,	0.12f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Lamppost 29",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-44.3f,	0.0f,	114.8f,	0.12f,	0.0000f,	-0.1680f,	0.0000f,	0.9858f
+"Lamppost 30",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-47.1f,	0.0f,	122.6f,	0.12f,	0.0000f,	-0.1680f,	0.0000f,	0.9858f
+"Lamppost 31",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-42.7f,	0.0f,	130.4f,	0.12f,	0.0000f,	0.5028f,	0.0000f,	0.8644f
+"Lamppost 32",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-35.5f,	0.0f,	134.2f,	0.12f,	0.0000f,	0.5028f,	0.0000f,	0.8644f
+"Lamppost 33",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-28.5f,	0.0f,	138.0f,	0.12f,	0.0000f,	0.5028f,	0.0000f,	0.8644f
+"Lamppost 34",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-17.1f,	0.0f,	144.0f,	0.12f,	0.0000f,	0.5028f,	0.0000f,	0.8644f
+"Lamppost 35",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-10.3f,	0.0f,	147.6f,	0.12f,	0.0000f,	0.5028f,	0.0000f,	0.8644f
+"Lamppost 36",	 "Models/objects/lamppost_w_banner/lamppost_w_banner.obj",	-3.3f,	0.0f,	151.2f,	0.12f,	0.0000f,	0.4695f,	0.0000f,	0.8829f
+
+# Bike Stuff
+"Bike Rack 1",	 "Models/objects/bicycles/bikerack/bikerack.obj",	10.6f,	0.0f,	163.4f,	0.19f,	0.0000f,	0.0911f,	0.0000f,	0.9958f
+"Bike Rack 2",	 "Models/objects/bicycles/bikerack/bikerack.obj",	12.8f,	0.0f,	163.0f,	0.19f,	0.0000f,	0.0911f,	0.0000f,	0.9958f
+"Silver Bike 1",	 "Models/objects/bicycles/bike_silver/bike_silver.obj",	13.5f,	0.0f,	162.6f,	0.13f,	0.0000f,	0.0707f,	0.0000f,	0.9975f
+"Green Bike 1",	 "Models/objects/bicycles/bike_green/bike_green.obj",	12.8f,	0.0f,	162.8f,	0.13f,	0.0000f,	0.0707f,	0.0000f,	0.9975f
+"Blue Bike 1",	 "Models/objects/bicycles/bike_blue/bike_blue.obj",	11.5f,	0.0f,	163.0f,	0.13f,	0.0000f,	0.0707f,	0.0000f,	0.9975f
+"Red Bike 1",	 "Models/objects/bicycles/bike_red/bike_red.obj",	10.5f,	0.0f,	163.2f,	0.13f,	0.0000f,	0.0707f,	0.0000f,	0.9975f
+"Bike Rack 3",	 "Models/objects/bicycles/bikerack/bikerack.obj",	-52.949947f,	0.0f,	72.150024f,	0.19f,	0.0f,	0.75544006f,	0.0f,	0.6552179f
+"Bike Rack 4",	 "Models/objects/bicycles/bikerack/bikerack.obj",	-53.49994f,	0.0f,	70.1499f,	0.19f,	0.0f,	0.75544006f,	0.0f,	0.6552179f
+"Silver Bike 2",	 "Models/objects/bicycles/bike_silver/bike_silver.obj",	-53.049946f,	0.0f,	69.44986f,	0.13f,	0.0f,	-0.60267645f,	0.0f,	0.7979857f
+"Green Bike 2",	 "Models/objects/bicycles/bike_green/bike_green.obj",	-53.049946f,	0.0f,	70.1499f,	0.13f,	0.0f,	-0.60267645f,	0.0f,	0.7979857f
+"Blue Bike 2",	 "Models/objects/bicycles/bike_blue/bike_blue.obj",	-52.549953f,	0.0f,	71.649994f,	0.13f,	0.0f,	-0.60267645f,	0.0f,	0.7979857f
+"Red Bike 2",	 "Models/objects/bicycles/bike_red/bike_red.obj",	-52.299957f,	0.0f,	72.500046f,	0.13f,	0.0f,	-0.60267645f,	0.0f,	0.7979857f
+
+# Vehicles
+"Car 1",	 "Models/vehicles/car_red/car.obj",	93.00098f,	0.0,	121.599915f,	0.3f,	0.0f,	0.081282794f,	0.0f,	0.99669105f
+"Car 2",	 "Models/vehicles/car_yellow/car.obj",	95.35112f,	0.0,	121.14989f,	0.3f,	0.0f,	0.081282794f,	0.0f,	0.99669105f
+"Car 3",	 "Models/vehicles/car_silver/car.obj",	97.75127f,	0.0,	120.59985f,	0.3f,	0.0f,	0.081282794f,	0.0f,	0.99669105f
+"Car 4",	 "Models/vehicles/car_blue/car.obj",	90.90085f,	0.0,	121.99994f,	0.3f,	0.0f,	0.081282794f,	0.0f,	0.99669105f
+"Car 5",	 "Models/vehicles/car_red/car.obj",	84.50046f,	0.0f,	90.74803f,	0.3f,	0.0f,	-0.6406502f,	0.0f,	0.7678329f
+"Car 6",	 "Models/vehicles/car_silver/car.obj",	84.800476f,	0.0f,	92.74815f,	0.3f,	0.0f,	-0.6406502f,	0.0f,	0.7678329f
+"Car 7",	 "Models/vehicles/car_blue/car.obj",	85.2505f,	0.0f,	94.748276f,	0.3f,	0.0f,	0.758697f,	0.0f,	0.65144366f
+"Car 8",	 "Models/vehicles/car_yellow/car.obj",	77.900055f,	0.0f,	96.29837f,	0.3f,	0.0f,	-0.6325408f,	0.0f,	0.774527f
+"Car 9",	 "Models/vehicles/car_red/car.obj",	77.45003f,	0.0f,	94.64827f,	0.3f,	0.0f,	0.7657362f,	0.0f,	0.64315486f
+"Car 10",	 "Models/vehicles/car_silver/car.obj",	77.20001f,	0.0f,	92.598145f,	0.3f,	0.0f,	-0.6322133f,	0.0f,	0.77479434f
+"Car 11",	 "Models/vehicles/car_blue/car.obj",	68.64949f,	0.0f,	85.84773f,	0.3f,	0.0f,	-0.6322133f,	0.0f,	0.77479434f
+"Car 12",	 "Models/vehicles/car_yellow/car.obj",	69.29953f,	0.0f,	90.147995f,	0.3f,	0.0f,	-0.6322133f,	0.0f,	0.77479434f
+"Car 13",	 "Models/vehicles/car_blue/car.obj",	69.64955f,	0.0f,	91.8481f,	0.3f,	0.0f,	-0.6322133f,	0.0f,	0.77479434f
+"Car 14",	 "Models/vehicles/car_red/car.obj",	70.14958f,	0.0f,	93.248184f,	0.3f,	0.0f,	-0.6322133f,	0.0f,	0.77479434f
+"Car 15",	 "Models/vehicles/car_silver/car.obj",	70.54961f,	0.0f,	94.84828f,	0.3f,	0.0f,	0.7660074f,	0.0f,	0.6428317f
+"Car 16",	 "Models/vehicles/car_silver/car.obj",	70.4996f,	0.0f,	96.198364f,	0.3f,	0.0f,	-0.6319599f,	0.0f,	0.7750011f
+"Car 17",	 "Models/vehicles/car_red/car.obj",	71.64967f,	0.0f,	101.89871f,	0.3f,	0.0f,	-0.6319599f,	0.0f,	0.7750011f
+"Van 1",	 "Models/vehicles/van_yellow/van.obj",	15.000017f,	0.0f,	152.54933f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Car 18",	 "Models/vehicles/car_blue/car.obj",	15.500019f,	0.0f,	154.59946f,	0.3f,	0.0f,	-0.6069951f,	0.0f,	0.7947055f
+"Car 19",	 "Models/vehicles/car_yellow/car.obj",	16.10002f,	0.0f,	156.9996f,	0.3f,	0.0f,	-0.6069951f,	0.0f,	0.7947055f
+"Car 20",	 "Models/vehicles/car_silver/car.obj",	14.450015f,	0.0f,	150.99924f,	0.3f,	0.0f,	-0.6069951f,	0.0f,	0.7947055f
+"Car 21",	 "Models/vehicles/car_blue/car.obj",	22.249926f,	0.0f,	150.99924f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Car 22",	 "Models/vehicles/car_red/car.obj",	22.899916f,	0.0f,	153.44939f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Van 2",	 "Models/vehicles/van_silver/van.obj",	23.399908f,	0.0f,	155.09949f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Car 23",	 "Models/vehicles/car_silver/car.obj",	24.59989f,	0.0f,	160.84984f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Van 3",	 "Models/vehicles/van_blue/van.obj",	25.149881f,	0.0f,	164.40005f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Car 24",	 "Models/vehicles/car_yellow/car.obj",	25.749872f,	0.0f,	166.45018f,	0.3f,	0.0f,	0.77807915f,	0.0f,	0.6281663f
+"Car 25",	 "Models/vehicles/car_silver/car.obj",	14.250014f,	0.0f,	200.20224f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Car 26",	 "Models/vehicles/car_blue/car.obj",	15.000017f,	0.0f,	202.60239f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Van 3",	 "Models/vehicles/van_silver/van.obj",	15.70002f,	0.0f,	205.40256f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Car 27",	 "Models/vehicles/car_silver/car.obj",	16.350016f,	0.0f,	208.70276f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Car 28",	 "Models/vehicles/car_yellow/car.obj",	8.249991f,	0.0f,	211.1029f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Van 4",	 "Models/vehicles/van_yellow/van.obj",	6.849986f,	0.0f,	208.30273f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Van 5",	 "Models/vehicles/car_red/car.obj",	6.599985f,	0.0f,	206.65263f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Van 6",	 "Models/vehicles/van_red/van.obj",	5.799982f,	0.0f,	204.5525f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Car 29",	 "Models/vehicles/car_blue/car.obj",	5.3499804f,	0.0f,	201.90234f,	0.3f,	0.0f,	0.78401124f,	0.0f,	0.62074673f
+"Van 7",	 "Models/vehicles/van_silver/van.obj",	8.149991f,	0.0f,	201.00229f,	0.3f,	0.0f,	-0.6082859f,	0.0f,	0.793718f
+"Car 30",	 "Models/vehicles/car_silver/car.obj",	8.7999935f,	0.0f,	203.20242f,	0.3f,	0.0f,	-0.6082859f,	0.0f,	0.793718f
+"Car 31",	 "Models/vehicles/car_silver/car.obj",	10.049998f,	0.0f,	208.80276f,	0.3f,	0.0f,	-0.6082859f,	0.0f,	0.793718f
+"Car 32",	 "Models/vehicles/car_yellow/car.obj",	-25.199455f,	0.0f,	55.59943f,	0.3f,	0.0f,	-0.66401756f,	0.0f,	0.747717f
+"Car 33",	 "Models/vehicles/car_red/car.obj",	-24.699463f,	0.0f,	59.849365f,	0.3f,	0.0f,	-0.66401756f,	0.0f,	0.747717f
+"Van 8",	 "Models/vehicles/van_yellow/van.obj",	-24.499466f,	0.0f,	62.999317f,	0.3f,	0.0f,	-0.66401756f,	0.0f,	0.747717f
+"Car 34",	 "Models/vehicles/car_blue/car.obj",	-23.499481f,	0.0f,	72.84984f,	0.3f,	0.0f,	-0.66401756f,	0.0f,	0.747717f
+"Car 35",	 "Models/vehicles/car_silver/car.obj",	-23.499481f,	0.0f,	75.14998f,	0.3f,	0.0f,	-0.66401756f,	0.0f,	0.747717f
+"Car 36",	 "Models/vehicles/car_yellow/car.obj",	-17.04958f,	7.40f,	71.74977f,	0.3f,	0.0f,	0.74199444f,	0.0f,	0.67040604f
+"Van 9",	 "Models/vehicles/van_blue/van.obj",	-17.04958f,	7.50f,	70.04967f,	0.3f,	0.0f,	0.74199444f,	0.0f,	0.67040604f
+"Car 37",	 "Models/vehicles/car_red/car.obj",	-17.04958f,	7.40f,	68.699585f,	0.3f,	0.0f,	0.74199444f,	0.0f,	0.67040604f
+"Car 38",	 "Models/vehicles/car_silver/car.obj",	-17.04958f,	7.40f,	67.14949f,	0.3f,	0.0f,	0.74199444f,	0.0f,	0.67040604f
+"Car 39",	 "Models/vehicles/car_blue/car.obj",	-54.44901f,	9.75f,	55.199436f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 40",	 "Models/vehicles/car_silver/car.obj",	-56.198982f,	9.75f,	55.199436f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 41",	 "Models/vehicles/car_red/car.obj",	-57.348965f,	9.75f,	55.749428f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 42",	 "Models/vehicles/car_silver/car.obj",	-59.798927f,	9.75f,	55.949425f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Van 10",	 "Models/vehicles/van_blue/van.obj",	-62.748882f,	9.85f,	56.19942f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 43",	 "Models/vehicles/car_blue/car.obj",	-65.59896f,	9.75f,	56.19942f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 44",	 "Models/vehicles/car_yellow/car.obj",	-69.39919f,	9.75f,	56.399418f,	0.3f,	0.0f,	0.9995413f,	0.0f,	-0.030285282f
+"Car 45",	 "Models/vehicles/car_silver/car.obj",	-69.39919f,	9.75f,	52.199482f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Car 46",	 "Models/vehicles/car_red/car.obj",	-67.44907f,	9.75f,	51.59949f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Car 47",	 "Models/vehicles/car_blue/car.obj",	-64.39889f,	9.75f,	51.449493f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Van 11",	 "Models/vehicles/van_red/van.obj",	-61.19891f,	9.85f,	51.449493f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Car 48",	 "Models/vehicles/car_silver/car.obj",	-59.048943f,	9.75f,	50.44951f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Car 49",	 "Models/vehicles/car_yellow/car.obj",	-56.198986f,	9.75f,	50.44951f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Car 50",	 "Models/vehicles/car_blue/car.obj",	-53.799023f,	9.75f,	50.44951f,	0.3f,	0.0f,	0.007805344f,	0.0f,	0.99996954f
+"Van 12",	 "Models/vehicles/van_yellow/van.obj",	-53.799023f,	9.85f,	43.69961f,	0.3f,	0.0f,	0.9997784f,	0.0f,	-0.021052048f
+"Car 51",	 "Models/vehicles/car_red/car.obj",	-55.548996f,	9.75f,	43.69961f,	0.3f,	0.0f,	0.9997784f,	0.0f,	-0.021052048f
+"Van 12",	 "Models/vehicles/van_blue/van.obj",	-66.199f,	9.85f,	43.69961f,	0.3f,	0.0f,	0.9997784f,	0.0f,	-0.021052048f
+"Car 52",	 "Models/vehicles/car_silver/car.obj",	-59.998928f,	9.75f,	39.499676f,	0.3f,	0.0f,	0.033375807f,	0.0f,	0.9994429f
+"Car 53",	 "Models/vehicles/car_yellow/car.obj",	-53.19903f,	9.75f,	38.54969f,	0.3f,	0.0f,	0.033375807f,	0.0f,	0.9994429f
+"Car 54",	 "Models/vehicles/car_silver/car.obj",	-16.84958f,	9.75f,	-24.899918f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 55",	 "Models/vehicles/car_blue/car.obj",	-19.149546f,	9.75f,	-22.899948f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 56",	 "Models/vehicles/car_red/car.obj",	-30.69937f,	9.75f,	-40.149685f,	0.3f,	0.0f,	-0.6498111f,	0.0f,	0.7600958f
+"Car 57",	 "Models/vehicles/car_silver/car.obj",	-30.199377f,	9.75f,	-38.249714f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 58",	 "Models/vehicles/car_yellow/car.obj",	-29.249392f,	9.75f,	-35.099762f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 59",	 "Models/vehicles/car_blue/car.obj",	-28.549402f,	9.75f,	-32.899796f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 60",	 "Models/vehicles/car_silver/car.obj",	-28.349405f,	9.75f,	-31.199821f,	0.3f,	0.0f,	-0.6299521f,	0.0f,	0.776634f
+"Car 61",	 "Models/vehicles/car_red/car.obj",	-26.549433f,	9.75f,	-25.099915f,	0.3f,	0.0f,	-0.6427529f,	0.0f,	0.7660736f
+"Car 62",	 "Models/vehicles/car_silver/car.obj",	-14.299587f,	9.75f,	-42.199654f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 63",	 "Models/vehicles/car_blue/car.obj",	-13.299583f,	9.75f,	-37.999718f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 64",	 "Models/vehicles/car_yellow/car.obj",	-12.34958f,	9.75f,	-33.599785f,	0.3f,	0.0f,	-0.6425602f,	0.0f,	0.766235f
+"Car 65",	 "Models/vehicles/car_red/car.obj",	-11.499577f,	9.75f,	-30.549831f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 66",	 "Models/vehicles/car_silver/car.obj",	-11.899578f,	9.75f,	-32.249805f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 67",	 "Models/vehicles/car_blue/car.obj",	-9.6495695f,	9.75f,	-23.199944f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 68",	 "Models/vehicles/car_silver/car.obj",	-21.149515f,	9.75f,	-42.39965f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 69",	 "Models/vehicles/car_yellow/car.obj",	-23.949472f,	9.75f,	-41.84966f,	0.3f,	0.0f,	-0.6427529f,	0.0f,	0.7660736f
+"Car 70",	 "Models/vehicles/car_red/car.obj",	-23.549479f,	9.75f,	-40.249683f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 71",	 "Models/vehicles/car_blue/car.obj",	-20.84952f,	9.75f,	-41.04967f,	0.3f,	0.0f,	-0.6239391f,	0.0f,	0.78147304f
+"Car 72",	 "Models/vehicles/car_silver/car.obj",	-22.999487f,	9.75f,	-38.649708f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 73",	 "Models/vehicles/car_silver/car.obj",	-22.0995f,	9.75f,	-34.199776f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 74",	 "Models/vehicles/car_red/car.obj",	-19.049547f,	9.75f,	-33.19979f,	0.3f,	0.0f,	-0.68375653f,	0.0f,	0.7297102f
+"Car 75",	 "Models/vehicles/car_blue/car.obj",	-18.599554f,	9.75f,	-30.849827f,	0.3f,	0.0f,	-0.6391657f,	0.0f,	0.76906914f
+"Car 76",	 "Models/vehicles/car_yellow/car.obj",	-17.799566f,	9.75f,	-28.949856f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 77",	 "Models/vehicles/car_red/car.obj",	-21.649508f,	9.75f,	-31.099823f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 78",	 "Models/vehicles/car_silver/car.obj",	9.000465f,	9.75f,	-57.849415f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 79",	 "Models/vehicles/car_silver/car.obj",	7.050458f,	9.75f,	-51.49951f,	0.3f,	0.0f,	0.9948778f,	0.0f,	-0.10108441f
+"Car 80",	 "Models/vehicles/car_blue/car.obj",	7.100458f,	9.75f,	-57.249424f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 81",	 "Models/vehicles/car_red/car.obj",	1.0004492f,	9.75f,	-55.999443f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 82",	 "Models/vehicles/car_yellow/car.obj",	1.5504487f,	9.75f,	-50.19953f,	0.3f,	0.0f,	0.11171105f,	0.0f,	0.99374074f
+"Car 83",	 "Models/vehicles/car_silver/car.obj",	4.450448f,	9.75f,	-56.74943f,	0.3f,	0.0f,	0.9995333f,	0.0f,	-0.030547919f
+"Car 84",	 "Models/vehicles/car_blue/car.obj",	-0.349551f,	9.75f,	-49.799538f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 85",	 "Models/vehicles/car_red/car.obj",	-4.7495513f,	9.75f,	-54.79946f,	0.3f,	0.0f,	0.9933848f,	0.0f,	-0.11483362f
+"Car 86",	 "Models/vehicles/car_silver/car.obj",	-7.6495624f,	9.75f,	-47.949566f,	0.3f,	0.0f,	0.99277574f,	0.0f,	-0.11998499f
+"Car 87",	 "Models/vehicles/car_yellow/car.obj",	-14.599588f,	9.75f,	-43.999626f,	0.3f,	0.0f,	0.7700068f,	0.0f,	0.6380357f
+"Car 88",	 "Models/vehicles/car_red/car.obj",	37.450165f,	9.7f,	8.550006f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 89",	 "Models/vehicles/car_blue/car.obj",	34.200214f,	9.7f,	9.350009f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 90",	 "Models/vehicles/car_silver/car.obj",	31.550255f,	9.7f,	9.900011f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Van 13",	 "Models/vehicles/van_blue/van.obj",	27.25032f,	9.8f,	10.300013f,	0.3f,	0.0f,	0.088500366f,	0.0f,	0.99607617f
+"Car 91",	 "Models/vehicles/car_silver/car.obj",	24.65036f,	9.7f,	-3.2000067f,	0.3f,	0.0f,	0.9953092f,	0.0f,	-0.09674505f
+"Van 14",	 "Models/vehicles/van_red/van.obj",	27.25032f,	9.8f,	-3.6500063f,	0.3f,	0.0f,	0.9953092f,	0.0f,	-0.09674505f
+"Car 92",	 "Models/vehicles/car_blue/car.obj",	33.15023f,	9.7f,	-5.250011f,	0.3f,	0.0f,	0.9953092f,	0.0f,	-0.09674505f
+"Car 93",	 "Models/vehicles/car_red/car.obj",	35.600193f,	9.7f,	-5.500012f,	0.3f,	0.0f,	0.9953092f,	0.0f,	-0.09674505f
+"Car 94",	 "Models/vehicles/car_yellow/car.obj",	54.6999f,	9.75f,	-20.599981f,	0.3f,	0.0f,	0.089309126f,	0.0f,	0.996004f
+"Car 95",	 "Models/vehicles/car_silver/car.obj",	57.699856f,	9.75f,	-21.049974f,	0.3f,	0.0f,	0.089309126f,	0.0f,	0.996004f
+"Car 96",	 "Models/vehicles/car_red/car.obj",	64.59979f,	9.75f,	-22.249956f,	0.3f,	0.0f,	0.089309126f,	0.0f,	0.996004f
+"Car 97",	 "Models/vehicles/car_blue/car.obj",	66.54991f,	9.75f,	-22.64995f,	0.3f,	0.0f,	0.089309126f,	0.0f,	0.996004f
+"Van 15",	 "Models/vehicles/van_blue/van.obj",	63.849762f,	9.85f,	-30.249834f,	0.3f,	0.0f,	0.99545777f,	0.0f,	-0.09520385f
+"Car 98",	 "Models/vehicles/car_silver/car.obj",	61.849792f,	9.75f,	-29.79984f,	0.3f,	0.0f,	0.99545777f,	0.0f,	-0.09520385f
+"Car 99",	 "Models/vehicles/car_yellow/car.obj",	58.84984f,	9.75f,	-28.59986f,	0.3f,	0.0f,	0.99545777f,	0.0f,	-0.09520385f
+"Car 100",	 "Models/vehicles/car_red/car.obj",	56.74987f,	9.75f,	-33.599785f,	0.3f,	0.0f,	0.08787441f,	0.0f,	0.99613154f
+"Van 16",	 "Models/vehicles/van_yellow/van.obj",	59.149834f,	9.85f,	-34.349773f,	0.3f,	0.0f,	0.08787441f,	0.0f,	0.99613154f
+"Car 101",	 "Models/vehicles/car_blue/car.obj",	62.249786f,	9.75f,	-34.949764f,	0.3f,	0.0f,	0.08787441f,	0.0f,	0.99613154f
+"Car 102",	 "Models/vehicles/car_silver/car.obj",	61.849792f,	9.75f,	-43.249638f,	0.3f,	0.0f,	0.9946239f,	0.0f,	-0.10355363f
+"Van 17",	 "Models/vehicles/van_blue/van.obj",	58.549843f,	9.85f,	-42.749645f,	0.3f,	0.0f,	0.9946239f,	0.0f,	-0.10355363f
+"Car 103",	 "Models/vehicles/car_red/car.obj",	55.199894f,	9.75f,	-42.149654f,	0.3f,	0.0f,	0.9946239f,	0.0f,	-0.10355363f
+"Van 18",	 "Models/vehicles/van_red/van.obj",	53.799915f,	9.85f,	-42.149654f,	0.3f,	0.0f,	0.9946239f,	0.0f,	-0.10355363f
+"Car 104",	 "Models/vehicles/car_silver/car.obj",	50.699963f,	9.75f,	-41.69966f,	0.3f,	0.0f,	0.9946239f,	0.0f,	-0.10355363f
+"Car 105",	 "Models/vehicles/car_yellow/car.obj",	31.050262f,	9.8f,	-28.349863f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Car 106",	 "Models/vehicles/car_red/car.obj",	30.000278f,	9.8f,	-31.699812f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Van 19",	 "Models/vehicles/van_silver/van.obj",	29.350288f,	9.9f,	-34.299774f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Car 107",	 "Models/vehicles/car_blue/car.obj",	28.900295f,	9.8f,	-36.699738f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Car 108",	 "Models/vehicles/car_silver/car.obj",	27.90031f,	9.8f,	-41.399666f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Van 20",	 "Models/vehicles/van_yellow/van.obj",	27.400318f,	9.9f,	-44.44962f,	0.3f,	0.0f,	-0.6232441f,	0.0f,	0.78202736f
+"Van 21",	 "Models/vehicles/van_blue/van.obj",	31.700253f,	9.9f,	-50.099533f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Car 109",	 "Models/vehicles/car_red/car.obj",	32.700237f,	9.8f,	-47.299576f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Car 110",	 "Models/vehicles/car_yellow/car.obj",	33.30023f,	9.8f,	-44.149624f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Van 22",	 "Models/vehicles/van_red/van.obj",	34.750206f,	9.9f,	-36.899734f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Car 111",	 "Models/vehicles/car_blue/car.obj",	35.500195f,	9.8f,	-33.099792f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Van 23",	 "Models/vehicles/van_silver/van.obj",	36.200184f,	9.9f,	-29.899841f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Car 112",	 "Models/vehicles/car_silver/car.obj",	36.650177f,	9.8f,	-27.549877f,	0.3f,	0.0f,	0.7825137f,	0.0f,	0.6226336f
+"Car 113",	 "Models/vehicles/car_red/car.obj",	46.750023f,	9.75f,	-76.65009f,	0.3f,	0.0f,	0.77987f,	0.0f,	0.62594163f
+"Car 114",	 "Models/vehicles/car_yellow/car.obj",	47.400013f,	9.75f,	-73.94993f,	0.3f,	0.0f,	0.77987f,	0.0f,	0.62594163f
+"Car 115",	 "Models/vehicles/car_blue/car.obj",	48.399998f,	9.75f,	-68.799614f,	0.3f,	0.0f,	0.77987f,	0.0f,	0.62594163f
+"Car 116",	 "Models/vehicles/car_red/car.obj",	48.89999f,	9.75f,	-66.29946f,	0.3f,	0.0f,	0.77987f,	0.0f,	0.62594163f
+"Car 117",	 "Models/vehicles/car_silver/car.obj",	24.150368f,	9.75f,	-62.749344f,	0.3f,	0.0f,	-0.61958385f,	0.0f,	0.7849305f
+"Car 118",	 "Models/vehicles/car_blue/car.obj",	23.550377f,	9.75f,	-65.49941f,	0.3f,	0.0f,	-0.61958385f,	0.0f,	0.7849305f
+"Car 119",	 "Models/vehicles/car_yellow/car.obj",	23.000385f,	9.75f,	-67.499535f,	0.3f,	0.0f,	-0.61958385f,	0.0f,	0.7849305f
+"Car 120",	 "Models/vehicles/car_red/car.obj",	22.250397f,	9.75f,	-71.19976f,	0.3f,	0.0f,	-0.61958385f,	0.0f,	0.7849305f
+"Car 121",	 "Models/vehicles/car_blue/car.obj",	22.0004f,	9.75f,	-73.09988f,	0.3f,	0.0f,	-0.61958385f,	0.0f,	0.7849305f
+
+# Trees
+"Tree 1",	 "Models/objects/trees/tree_w_berm/tree_w_berm.obj",	77.2f,	0.0f,	90.3f,	0.19f,	0.0000f,	0.7380f,	0.0000f,	0.6748f
+"Tree 2",	 "Models/objects/trees/tree_w_berm/tree_w_berm.obj",	84.1f,	0.0f,	89.0f,	0.19f,	0.0000f,	0.7380f,	0.0000f,	0.6748f
+"Tree 3",	 "Models/objects/trees/tree_w_berm/tree_w_berm.obj",	78.2f,	0.0f,	98.8f,	0.19f,	0.0000f,	0.7380f,	0.0000f,	0.6748f
+"Tree 4",	 "Models/objects/trees/tree_w_berm/tree_w_berm.obj",	85.6f,	0.0f,	97.1f,	0.19f,	0.0000f,	0.7380f,	0.0000f,	0.6748f
+"Tree 5",	 "Models/objects/trees/tree1/tree1.obj",		7.2f,	0.0f,	157.6f,	0.30f,	0.0000f,	0.3067f,	0.0000f,	0.9518f
+"Tree 6",	 "Models/objects/trees/tree1/tree1.obj",		28.4f,	0.0f,	183.5f,	0.30f,	0.0000f,	0.3067f,	0.0000f,	0.9518f
+"Tree 7",	 "Models/objects/trees/tree1/tree1.obj",		55.5f,	0.0f,	174.5f,	0.30f,	0.0000f,	0.3067f,	0.0000f,	0.9518f
+"Tree 8",	 "Models/objects/trees/tree1/tree1.obj",		-40.0f,	0.0f,	71.5f,	0.14f,	0.0000f,	0.3568f,	0.0000f,	0.9342f
+"Tree 9",	 "Models/objects/trees/tree1/tree1.obj",		10.0f,	0.0f,	160.0f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 10",	 "Models/objects/trees/tree2/tree2.obj",		33.7f,	0.0f,	-22.6f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 11",	 "Models/objects/trees/tree2/tree2.obj",		53.0f,	0.0f,	160.2f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 12",	 "Models/objects/trees/tree2/tree2.obj",		62.7f,	10.1f,	44.6f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 13",	 "Models/objects/trees/tree2/tree2.obj",		81.8f,	10.3f,	44.7f,	0.46f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 14",	 "Models/objects/trees/tree2/tree2.obj",		96.7f,	11.9f,	84.3f,	0.46f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 15",	 "Models/objects/trees/tree2/tree2.obj",		60.5f,	11.0f,	165.0f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 16",	 "Models/objects/trees/tree2/tree2.obj",		59.0f,	11.0f,	180.5f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 17",	 "Models/objects/trees/pineTree/pineTree.obj",		63.8f,	9.4f,	174.5f,	0.63f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 18",	 "Models/objects/trees/pineTree/pineTree.obj",		30.6f,	10.4f,	190.9f,	0.63f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 19",	 "Models/objects/trees/pineTree/pineTree.obj",		50.4f,	10.4f,	144.2f,	0.63f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 20",	 "Models/objects/trees/pineTree/pineTree.obj",		57.0f,	11.1f,	19.2f,	0.37f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 21",	 "Models/objects/trees/pineTree/pineTree.obj",		-7.4f,	11.2f,	19.6f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 22",	 "Models/objects/trees/pineTree/pineTree.obj",		62.892357f,	9.451375f,	-61.81623f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 23",	 "Models/objects/trees/tree1/tree1.obj",		48.58228f,	9.451374f,	-56.89865f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 24",	 "Models/objects/trees/tree1/tree1.obj",		16.833647f,	9.451374f,	-48.683327f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 25",	 "Models/objects/trees/pineTree/pineTree.obj",		9.394054f,	9.451485f,	-46.809696f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 26",	 "Models/objects/trees/tree2/tree2.obj",		2.9274583f,	9.451485f,	-45.13456f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 27",	 "Models/objects/trees/tree1/tree1.obj",		30.436161f,	9.451437f,	-14.662198f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 28",	 "Models/objects/trees/tree1/tree1.obj",		21.39861f,	9.451438f,	-13.0660095f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 29",	 "Models/objects/trees/tree2/tree2.obj",		14.356249f,	9.451438f,	-11.822203f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 30",	 "Models/objects/trees/tree2/tree2.obj",		4.3861866f,	9.74509f,	4.1969695f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 31",	 "Models/objects/trees/pineTree/pineTree.obj",		7.288539f,	9.729433f,	-1.104029f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 32",	 "Models/objects/trees/pineTree/pineTree.obj",		31.6f,	9.7f,	-62.8f,	0.38f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 33",	 "Models/objects/trees/tree2/tree2.obj",		39.0f,	9.7f,	-74.1f,	0.33f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 34",	 "Models/objects/trees/tree1/tree1.obj",		30.9f,	9.7f,	-69.2f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+"Tree 35",	 "Models/objects/trees/tree1/tree1.obj",		40.7f,	9.7f,	-66.4f,	0.17f,	0.0000f,	0.0000f,	0.0000f,	0.0000f
+
+# Benches
+"Bench 1",	 "Models/objects/bench/bench.obj",	-32.8f,	0.0f,	101.3f,	0.18f,	0.0000f,	-0.5892f,	0.0000f,	0.8080f
+"Bench 2",	 "Models/objects/bench/bench.obj",	-33.6f,	0.0f,	105.9f,	0.18f,	0.0000f,	0.8828f,	0.0000f,	-0.4696f
+"Bench 3",	 "Models/objects/bench/bench.obj",	-37.8f,	0.0f,	109.2f,	0.18f,	0.0000f,	0.9998f,	0.0000f,	0.0187f
+"Bench 4",	 "Models/objects/bench/bench.obj",	48.2f,	0.0f,	18.2f,	0.18f,	0.0000f,	0.7638f,	0.0000f,	0.6455f
+"Bench 5",	 "Models/objects/bench/bench.obj",	47.7f,	0.0f,	21.5f,	0.18f,	0.0000f,	-0.1811f,	0.0000f,	0.9835f
+"Bench 6",	 "Models/objects/bench/bench.obj",	44.5f,	0.0f,	20.3f,	0.18f,	0.0000f,	-0.2190f,	0.0000f,	0.9757f
+"Bench 7",	 "Models/objects/bench/bench.obj",	-4.3f,	0.0f,	15.2f,	0.18f,	0.0000f,	0.505f,	0.0000f,	0.8631f
+
+# Buildings
+"DMC",	 "Models/buildings/dmc/dmc.mesh.xml",			 11f,	 0.0f,	 50f,	 1.10f,	 0f,	 -0.0699f,	 0f,	 0.9976f
+"SSC",	 "Models/buildings/ssc/ssc.mesh.xml",			 -55f,	 0.0f,	 100f,	 1.75f,	 0f,	 0.7726f,	 0f,	 0.6349f
+"BTS",	 "Models/buildings/bts/bts.mesh.xml",			 56f,	 0.0f,	 95f,	 2.50f,	 0f,	 -0.6372f,	 0f,	 0.7707f
+"ENS",	 "Models/buildings/ens/ens.mesh.xml",			 4f,	 0.0f,	 172f,	 3.95f,	 0f,	 0.0799f,	 0f,	 0.9968f
+"MIL",	 "Models/buildings/milner/milner.mesh.xml",		 37f,	 0.0f,	 155f,	 0.70f,	 0f,	 0.0762f,	 0f,	 0.9971f
+"APP",	 "Models/buildings/apple/apple.mesh.xml",		 77f,	 0.0f,	 123f,	 6.10f,	 0f,	 0.9957f,	 0f,	 -0.0925f
+"LB",	 "Models/buildings/library/library.mesh.xml",		 26f,	 0.0f,	 123f,	 0.65f,	 0f,	 -0.6910f,	 0f,	 0.7229f
+"X",	 "Models/buildings/btsstairs/btsStairs.mesh.xml",	 50f,	 0.0f,	 95.4f,	 2.50f,	 0f,	 -0.6372f,	 0f,	 0.7707f
+"BRO",	 "Models/buildings/brock/brock.mesh.xml",		 32f,	 0.0f,	 -88f,	 1.50f,	 0f,	 0.0810f,	 0f,	 0.9967f
+"DFH",	 "Models/buildings/callan/callan.mesh.xml",		 -36f,	 0.0f,	 5f,	 23f,	 0f,	 -0.0853f,	 0f,	 0.9964f
+"FH",	 "Models/buildings/founders/founders.mesh.xml",		 92.1f,	 0.0f,	 187.0f,	 1.03f,	 0f,	 0.0086f,	 0f,	 1f
+"LAW",	 "Models/buildings/lawlorPrinty/lawlorPrinty.mesh.xml",	 66f,	 0.0f,	 7f,	 0.55f,	 0f,	 0.9956f,	 0f,	 -0.0935f
+"PR",	 "Models/buildings/lawlorPrinty/lawlorPrinty.mesh.xml",	 31f,	 0.0f,	 4f,	 0.55f,	 0f,	 0.1085f,	 0f,	 0.9941f
+"MX",	 "Models/buildings/maddox/maddox.mesh.xml",		 79f,	 0.0f,	 73f,	 1.2f,	 0f,	 0.0810f,	 0f,	 0.9967f
+"MCCH",	 "Models/buildings/mcchesney/mcchesney.mesh.xml",	 10,	 0.0f, -32f, 4.50f,	 0f,	 0.1118f,	 0f,	 0.9337f
+"TYL",	 "Models/buildings/tyler/tyler.obj",	 53.1f,		 7.9f,	 0.0f, 3.7f,	 0f,	 0.7694f,	 0f,	 0.6388f
+"PAT",	 "Models/buildings/patterson/patterson.obj",		 111.1f, 0.0f,	 147.8f,	 2.48f,	 0f,	 0.0693f,	 0f,	 0.9976f
+"WIL",	 "Models/buildings/willets/willets.obj",		 61.2f,	 0.0f,	 -33.2f,	 0.81f,	 0f,	 -0.6327f,	 0f,	 0.7744f
+"WH",	 "Models/buildings/williams/williams.obj",		 80.0f,	 0.0f,	 162.5f,	 3.27f,	 0f,	 0.1005f,	 0f,	 0.9949f
+"HRS",	 "Models/buildings/safety/safety.obj",	 81.6f,		 9.4f,	 0.0f,	 0.52f,	 0f,	 0.0984f,	 0f,	 0.9951f
+"PHB",	 "Models/buildings/pharmacy/pharmacy.mesh.xml",		-52f,	 0.0f,	 145f,	 2f,	 0f,	 -.4f,	 0f,	 -0.2f
+

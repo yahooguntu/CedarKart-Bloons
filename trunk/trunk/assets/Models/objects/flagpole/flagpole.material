@@ -1,0 +1,254 @@
+
+material _missing_material_ 
+{
+    receive_shadows off
+    technique
+    {
+        pass
+        {
+            ambient 0.1 0.1 0.1 1.0
+            diffuse 0.8 0.0 0.0 1.0
+            specular 0.5 0.5 0.5 1.0 12.5
+            emissive 0.3 0.3 0.3 1.0
+        }
+    }
+}
+
+material Material.003 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.36
+	{
+		pass b2ogre_1323922775.36
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			specular 0.09259259700775146 0.09259259700775146 0.09259259700775146 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323922775.361
+			{
+				texture DSC_7661.JPG
+				tex_address_mode wrap
+				scale 1.0 1.0
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.004 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.386
+	{
+		pass b2ogre_1323922775.386
+		{
+			ambient 0.0 0.0 0.0 1.0
+			diffuse 0.0 0.0 0.0 1.0
+			specular 0.5 0.5 0.5 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Material.001 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.386
+	{
+		pass b2ogre_1323922775.386
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+			specular 0.12037035822868347 0.12037035822868347 0.12037035822868347 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323922775.387
+			{
+				texture red-brick-texture_w725_h544.jpg
+				tex_address_mode wrap
+				scale 0.5 0.5
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.002 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.42
+	{
+		pass b2ogre_1323922775.42
+		{
+			ambient 0.13757921755313873 0.05993657186627388 0.0 1.0
+			diffuse 0.11006337568258306 0.04794925820751872 0.0 1.0
+			specular 0.09259259700775146 0.09259259700775146 0.09259259700775146 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
+material Material.006 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.42
+	{
+		pass b2ogre_1323922775.42
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+			specular 0.12037035822868347 0.12037035822868347 0.12037035822868347 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323922775.421
+			{
+				texture red-brick-texture_w725_h544.jpg
+				tex_address_mode wrap
+				scale 0.5 0.5
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.007 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.421
+	{
+		pass b2ogre_1323922775.421
+		{
+			ambient 0.800000011920929 0.800000011920929 0.800000011920929 1.0
+			diffuse 0.6400000190734865 0.6400000190734865 0.6400000190734865 1.0
+			specular 0.12037035822868347 0.12037035822868347 0.12037035822868347 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+			texture_unit b2ogre_1323922775.422
+			{
+				texture red-brick-texture_w725_h544.jpg
+				tex_address_mode wrap
+				scale 0.5 0.5
+				colour_op replace
+			}
+		}
+	}
+}
+material Material.005 
+{
+	receive_shadows on
+	technique b2ogre_1323922775.422
+	{
+		pass b2ogre_1323922775.422
+		{
+			ambient 0.3423754870891571 0.3423754870891571 0.3423754870891571 1.0
+			diffuse 0.27390039375275954 0.27390039375275954 0.27390039375275954 1.0
+			specular 0.17592594027519226 0.17592594027519226 0.17592594027519226 1.0 12.5
+			emissive 0.0 0.0 0.0 1.0
+			alpha_to_coverage off
+			colour_write on
+			cull_hardware clockwise
+			depth_check on
+			depth_func less_equal
+			depth_write on
+			illumination_stage 
+			light_clip_planes off
+			light_scissor off
+			lighting on
+			normalise_normals off
+			polygon_mode solid
+			scene_blend one zero
+			scene_blend_op add
+			shading gouraud
+			transparent_sorting on
+		}
+	}
+}
