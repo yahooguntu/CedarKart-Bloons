@@ -2,3 +2,7 @@ CedarKart-Bloons
 ================
 
 This is a buggy cart-racing game developed off of JMonkeyEngine for a computer graphics class.
+
+I specialized in the area of networked play for this project. Carts will broadcast position
+updates regularly, and in between updates each client tries to guess where other players'
+carts will move. This effectively eliminates jitter on all but the sharpest moves.
